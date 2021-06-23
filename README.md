@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![alt text](https://drive.google.com/uc?export=view&id=1akwUUvXw38rIsO6Y8AlewAF7xT3qoFO4)
-
 ### Welcome to my repository!
 I'm Systems Engineer Data Science enthusiast, passionate about communities. I love photography📷
 - I'm currently working as a developer engineer👩🏾‍💻✨
@@ -16,10 +15,6 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 - [Intro al Analisis de Datos de spotify con Python](https://www.youtube.com/watch?v=xYEZrHG5uk4&t=1889s)
 ### 📝Tech Blog:
 - [Medium](https://katerinevach.medium.com/)
-
-
-
-
 
 
 <!--
