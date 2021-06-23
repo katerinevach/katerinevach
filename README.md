@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://drive.google.com/uc?export=view&id=1akwUUvXw38rIsO6Y8AlewAF7xT3qoFO4)
+![alt text](https://drive.google.com/uc?export=view&id=1Y4VC57KbRfCIH1W2ocKDz0uvmjH0tfzx)
 ### Welcome to my repository!
 I'm Systems Engineer Data Science enthusiast, passionate about communities. I love photography📷
 - I'm currently working as a developer engineer👩🏾‍💻✨
