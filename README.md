@@ -15,6 +15,7 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 - [Intro al Analisis de Datos de spotify con Python](https://www.youtube.com/watch?v=xYEZrHG5uk4&t=1889s)
 ### 📝Tech Blog:
 - [Medium](https://katerinevach.medium.com/)
+- My dashboard at [Tableau public](https://public.tableau.com/profile/katerine.valencia#!/)
 
 
 <!--
