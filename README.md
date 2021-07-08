@@ -11,6 +11,7 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 - ✨ [PyLadies Colombia](https://twitter.com/pyladies_co)
 
 ### Find me around the web 🌎:
+- https://linktr.ee/katerinevach
 #### 🎙Talks:
 - PionerasDev - [Intro al Analisis de Datos de spotify con Python](https://www.youtube.com/watchv=xYEZrHG5uk4&t=1889s)
 #### 📝Tech Blog:
