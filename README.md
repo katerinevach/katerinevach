@@ -17,7 +17,7 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 #### 📝Tech Blog:
 - [Medium](https://katerinevach.medium.com/)
 - Blog collaboration
-- - [Una imagen vale más que mil palabras](https://lauralpezb.medium.com/una-imagen-vale-m%C3%A1s-que-mil-palabras-1be940d2714c)
+  - [Una imagen vale más que mil palabras](https://lauralpezb.medium.com/una-imagen-vale-m%C3%A1s-que-mil-palabras-1be940d2714c)
 - My dashboard at [Tableau public](https://public.tableau.com/profile/katerine.valencia#!/) 📊
 
 
