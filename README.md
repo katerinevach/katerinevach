@@ -3,8 +3,8 @@
 ![alt text](https://drive.google.com/uc?export=view&id=1Y4VC57KbRfCIH1W2ocKDz0uvmjH0tfzx)
 ### Welcome to my repository!
 I'm Systems Engineer Data Science enthusiast, passionate about communities. I love photography📷
-- I'm currently working as a developer engineer👩🏾‍💻✨
-<!-- - Some skills: Python, PostgreSQL, Tableau, Django-->
+- I have worked as a developer engineer.  I'm currently working as a Data Scientist 👩🏾‍💻✨
+<!-- - Some skills: Python, PostgreSQL, Bigquery, Tableau, Django-->
 
 #### I'm a volunteer at:
 - ✨ [DataScienceFEM](https://twitter.com/DataScienceFEM)
