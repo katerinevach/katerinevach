@@ -14,6 +14,7 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 - https://linktr.ee/katerinevach
 #### 🎙Talks:
 - PionerasDev - [Intro al Analisis de Datos de spotify con Python](https://www.youtube.com/watchv=xYEZrHG5uk4&t=1889s)
+- PyCon Colombia - [De la imaginación a la realidad: modelos de IA para la generación de imágenes](https://2023.pycon.co/speakers/)
 #### 📝Tech Blog:
 - [Medium](https://katerinevach.medium.com/)
 - Blog collaboration
