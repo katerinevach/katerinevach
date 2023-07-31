@@ -22,7 +22,7 @@ I'm Systems Engineer Data Science enthusiast, passionate about communities. I lo
 - My dashboard at [Tableau public](https://public.tableau.com/profile/katerine.valencia#!/) 📊
 
 #### 📝YouTube Channel:
-- https://www.youtube.com/@KaterineVach
+- [@KaterineVach](https://www.youtube.com/@KaterineVach)
 
 <!--
 **katerinevach/katerinevach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
